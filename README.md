@@ -1,6 +1,8 @@
-# OnlinePortfolio
-Portfolio
-<!--
+# Online Portfolio
+
+
+about this Portfolio --
+
 Created by Marlou Xerkxex D. Rentucan - re made an ultra basic submittable website for requirements on appdev website.
 made very simplistic due to time constraints, already available live website portfolio and for compliance.
 Template from retrospect. All rights reserved 2020.
@@ -18,4 +20,4 @@ online CDN's: (ezgif[cat in the end] https://ezgif.com/images/loadcat.gif, font 
 -added simple vertical timeline snippet https://codemyui.com/vertical-timeline-resumes/
 -will add image hosting integration to eliminate all picture media (compelex implementation on Background and dynamic photos. but will try in the future)
 
--->
+
